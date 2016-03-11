@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateLayoutDeltas.Web", "TemplateLayoutDeltas.Web\TemplateLayoutDeltas.Web.csproj", "{32F240E8-06E6-43C2-AD77-9200BCB6EE5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32F240E8-06E6-43C2-AD77-9200BCB6EE5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F240E8-06E6-43C2-AD77-9200BCB6EE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F240E8-06E6-43C2-AD77-9200BCB6EE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F240E8-06E6-43C2-AD77-9200BCB6EE5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
